@@ -4,7 +4,7 @@ I developed this To Do List app to practice using Realm and CocoaPods.
 
 I have used <a href="https://realm.io" target="_blank">Realm</a> to allow users to create multiple lists/categories and save them locally.
 
-Each item can be marked as done or simply deleted by swiping to left. To be able to replicate the swipe to delete behaviour, I have installed <a href="" target="_blank">SwipeCellKit</a>.
+Each item can be marked as done or simply deleted by swiping to left. To be able to replicate the swipe to delete behaviour, I have installed <a href="https://cocoapods.org/pods/SwipeCellKit" target="_blank">SwipeCellKit</a>.
 
 I have also used <a href="https://cocoapods.org/pods/ChameleonFramework" target="_blank">ChameleonFramework</a> to assign random colours to each category that is persisted and creates a nice UI.
 
